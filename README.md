@@ -1,2 +1,3 @@
 # my-repository
-repository untuk rencana saya kedepanya
+repository untuk rencana saya 
+belajar
