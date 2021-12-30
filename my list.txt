@@ -1,2 +1,3 @@
 -- im create my portfolio --
 -- create website with html and css --
+im learn my javascript,html,css
